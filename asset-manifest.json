@@ -1,19 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.8ed0d32c.chunk.css",
-    "main.js": "/static/js/main.6aac8479.chunk.js",
-    "main.js.map": "/static/js/main.6aac8479.chunk.js.map",
+    "main.css": "/static/css/main.65e21ae8.chunk.css",
+    "main.js": "/static/js/main.ea171e80.chunk.js",
+    "main.js.map": "/static/js/main.ea171e80.chunk.js.map",
     "runtime~main.js": "/static/js/runtime~main.7fe8d152.js",
     "runtime~main.js.map": "/static/js/runtime~main.7fe8d152.js.map",
     "static/css/2.60a6b8e0.chunk.css": "/static/css/2.60a6b8e0.chunk.css",
-    "static/js/2.99ae9574.chunk.js": "/static/js/2.99ae9574.chunk.js",
-    "static/js/2.99ae9574.chunk.js.map": "/static/js/2.99ae9574.chunk.js.map",
+    "static/js/2.743f519c.chunk.js": "/static/js/2.743f519c.chunk.js",
+    "static/js/2.743f519c.chunk.js.map": "/static/js/2.743f519c.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.a5acaceb7eba54491f58c508ae0601f9.js": "/precache-manifest.a5acaceb7eba54491f58c508ae0601f9.js",
+    "precache-manifest.19fa57f710d9c64c434e9b508cd872e9.js": "/precache-manifest.19fa57f710d9c64c434e9b508cd872e9.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.60a6b8e0.chunk.css.map": "/static/css/2.60a6b8e0.chunk.css.map",
-    "static/css/main.8ed0d32c.chunk.css.map": "/static/css/main.8ed0d32c.chunk.css.map",
+    "static/css/main.65e21ae8.chunk.css.map": "/static/css/main.65e21ae8.chunk.css.map",
     "static/media/IMG_5915.JPG": "/static/media/IMG_5915.3c7c0eee.JPG",
-    "static/media/ic_travelar.svg": "/static/media/ic_travelar.7f8fc522.svg"
+    "static/media/ic_travelar.svg": "/static/media/ic_travelar.7f8fc522.svg",
+    "static/media/tour_details.jpg": "/static/media/tour_details.aec360bf.jpg",
+    "static/media/tour_details_admin.jpg": "/static/media/tour_details_admin.f72895b7.jpg",
+    "static/media/tour_map.jpg": "/static/media/tour_map.9fb303e3.jpg",
+    "static/media/tourlist.png": "/static/media/tourlist.11b46b5a.png"
   }
 }
